@@ -3,4 +3,4 @@ Git is free software distributed under the GPL ...
 Git has a mut able index called stage
 Git tracks changes.
 Creating a new branch is quick AND simple.
-add merge
+Fix bug save stash
